@@ -2,7 +2,7 @@
 
 Every pixel has a purpose. Every design tells a story. I make sure they're worth telling.
 
-With 20 years in digital design and transformation, I help organizations build scalable solutions that put people first. I've led UX research across 23 countries, raised $5.1M through innovative campaigns, and transformed digital platforms for Fortune 500 healthcare companies and nonprofits.
+With 20 years in digital design and transformation, I help organizations build scalable solutions that put people first. I've led UX research across 23 countries, raised $6M through innovative campaigns, and transformed digital platforms for Fortune 500 healthcare companies and nonprofits.
 
 Reach me at hello@ashrafali.net
 
@@ -11,7 +11,6 @@ Reach me at hello@ashrafali.net
 - 🌐 [Website](https://ashrafali.net)
 - 📝 [Blog](https://ashrafali.net/journal)
 - 💼 [Portfolio](https://ashrafali.net/portfolio)
-- 📄 [Resume](https://ashrafali.net/resume)
 - 👥 [LinkedIn](https://ashrafali.net/linkedin)
 
 ## When Not Coding
