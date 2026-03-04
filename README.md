@@ -25,14 +25,18 @@ I run **[wavedepth](https://wavedepth.com)**, the creative agency I started in 2
 
 - 🎨 **[ai-happy-design](https://github.com/nerveband/ai-happy-design)** — Figma CLI but fast, design with AI agents
 - 🎯 **[content-checkmate](https://github.com/nerveband/content-checkmate)** — Ad policy checker for social media, catches violations before you publish
-- ✅ **[content-checker](https://github.com/nerveband/content-checker)** — Verify images against text requirements using Gemini Flash
-- 🖌️ **[nb-pro-image-gen-skill](https://github.com/nerveband/nb-pro-image-gen-skill)** — Image generation toolkit using Gemini 3 Pro Image API
 - 🍔 **[TastyShot](https://github.com/nerveband/tastyshot)** — Food photography PWA with AI enhancement
 - 🖼️ **[image_sense](https://github.com/nerveband/image_sense)** — Process images with AI, write to EXIF/XML/CSV
 
+## Claude Code skills
+
+- 🍌 **[nano-banana-2](https://github.com/nerveband/nano-banana-2)** — Pro-level AI image generation at Flash speed (Gemini 3.1 Flash)
+- 🖌️ **[nb-pro-image-gen-skill](https://github.com/nerveband/nb-pro-image-gen-skill)** — Image generation toolkit using Gemini 3 Pro Image API
+- ✅ **[content-checker](https://github.com/nerveband/content-checker)** — Verify images against text requirements using Gemini Flash
+
 ## CLI tools
 
-- ⚡ **[zmosh-picker](https://github.com/nerveband/zmosh-picker)** — Single-keypress session launcher for zmosh
+- ⚡ **[zpick](https://github.com/nerveband/zpick)** — Single-keypress session launcher for zmosh
 - 📝 **[craft-cli](https://github.com/nerveband/craft-cli)** — Work with Craft documents from the command line
 - ✏️ **[drafts-applescript-cli](https://github.com/nerveband/drafts-applescript-cli)** — CLI for Drafts app via AppleScript
 - 💬 **[beeper-api-cli](https://github.com/nerveband/beeper-api-cli)** — Cross-platform CLI for Beeper Desktop API
@@ -41,6 +45,7 @@ I run **[wavedepth](https://wavedepth.com)**, the creative agency I started in 2
 
 ## WordPress ecosystem
 
+- 🤖 **[agent-to-bricks](https://github.com/nerveband/agent-to-bricks)** — AI-powered element generation for Bricks Builder ⭐16
 - 🎟️ **[tailor-made](https://github.com/nerveband/tailor-made)** — Ticket Tailor API integration for WordPress and Bricks Builder
 - 💰 **[givewp2dp](https://github.com/nerveband/givewp2dp)** — Sync GiveWP donations to DonorPerfect in real-time
 - 🧱 **[html-to-bricks-converter](https://github.com/nerveband/html-to-bricks-converter)** — HTML to Bricks Builder JSON using Cerebras AI
@@ -62,11 +67,6 @@ I run **[wavedepth](https://wavedepth.com)**, the creative agency I started in 2
 - 📰 **[html-to-md-render](https://github.com/nerveband/html-to-md-render)** — Any page to Markdown with JINA AI
 - ⛽ **[isobutane-canister-calculator](https://github.com/nerveband/isobutane-canister-calculator)** — How much fuel is left in your canister
 
-### Legacy
-
-- 📐 **[token-vision](https://github.com/nerveband/token-vision)** — Offline token calculator for images across AI models
-- 💪 **[nine-week-challenge](https://github.com/nerveband/nine-week-challenge)** — Fitness without calorie tracking
-
 ---
 
 ## GitHub activity
@@ -75,7 +75,7 @@ I run **[wavedepth](https://wavedepth.com)**, the creative agency I started in 2
 
 ## What I'm up to
 
-Strategy and storytelling across nonprofit, education, healthcare, and private sector at wavedepth, Go CLIs for anything with an API, and lately a lot of AI tooling. Most of my stuff ships in days, not months. I work out of Claude Code, Codex, OpenCode, and [OpenClaw](https://openclaw.ai) depending on the task. Also constantly trying to keep every device in sync — Dropbox, Synology, iCloud, whatever it takes. I live on the bleeding edge. It's exciting, slightly scary, mostly awesome.
+Strategy and storytelling across nonprofit, education, healthcare, and private sector at wavedepth. Building Go CLIs for anything with an API, plugins and integrations for the web, and Claude Code skills for image generation and content verification. Most of my stuff ships in days, not months. I work out of Claude Code, Codex, OpenCode, and [OpenClaw](https://openclaw.ai) depending on the task. I live on the bleeding edge. It's exciting and really awesome.
 ## Connect
 
 [![Website](https://img.shields.io/badge/-ashrafali.net-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://ashrafali.net)
